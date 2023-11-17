@@ -1,0 +1,2 @@
+Access_key_id = AKIAYUBS5O3BYC7WBJWO
+Secret_access_key_id= 2P+OXttMsMgqTuNzCdKS1R1LFiU6YmqqEHhC11LG
